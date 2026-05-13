@@ -201,7 +201,7 @@ C. ...
 2. 影像结构化解析：请精准描述该影像中黄斑区的解剖层次病变（需定位到具体层次）。
 3. ...
 
-<img src="image/image_1.jpg" alt="多模态影像示意" width="200"> <img src="image/image_2.png" alt="多模态影像示意" width="100"><img src="image/image_3.png" alt="多模态影像示意" width="100">
+<img src="image/image_1.jpg" alt="多模态影像示意" width="370"> <img src="image/image_2.png" alt="多模态影像示意" width="200"><img src="image/image_3.png" alt="多模态影像示意" width="200">
 
 
 评分要点：
