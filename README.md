@@ -201,13 +201,13 @@ C. ...
 2. 影像结构化解析：请精准描述该影像中黄斑区的解剖层次病变（需定位到具体层次）。
 3. ...
 
-<img src="image/image_1.jpg" alt="多模态影像示意" width="100"> <img src="image/image_2.png" alt="多模态影像示意" width="100"><img src="image/image_3.png" alt="多模态影像示意" width="100">
+<img src="image/image_1.jpg" alt="多模态影像示意" width="200"> <img src="image/image_2.png" alt="多模态影像示意" width="100"><img src="image/image_3.png" alt="多模态影像示意" width="100">
 
 
 评分要点：
 
 1. 准确识别并指出病历描述（未见明显变化）与影像表现（严重病变）之间的图文矛盾 (+20分)
-2. 精准定位病灶层次，包括视网膜内囊腔（IRF）、视网膜下积液（SRF）及RPE层异常
+2. 精准定位病灶层次，包括视网膜内囊腔（IRF）、视网膜下积液（SRF）及RPE层异常 (+15分)
 3. ...
 
 ---
@@ -228,8 +228,8 @@ C. ...
 
 | 数据类型 | 格式 | 说明 |
 | -------- | ---- | ---- |
-|          |      |      |
-|          |      |      |
+| OCT| jpeg/jpg     |      |
+|  眼底彩照|  jpeg/jpg    |      |
 |          |      |      |
 
 ### 本次评测数据集
