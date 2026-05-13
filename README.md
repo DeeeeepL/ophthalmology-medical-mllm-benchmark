@@ -218,8 +218,8 @@ C. ...
 
 评分要点：
 
-1. 准确指出软性玻璃膜疣位于RPE下方（Sub-RPE），而RPD位于RPE上方/视网膜下空间（Subretinal space）。
-2. 明确提到软性玻璃膜疣与基底线性沉积（Basal linear deposits）及Bruch膜增厚的关系。
+1. 准确指出软性玻璃膜疣位于RPE下方（Sub-RPE），而RPD位于RPE上方/视网膜下空间（Subretinal space）。(+20分)
+2. 明确提到软性玻璃膜疣与基底线性沉积（Basal linear deposits）及Bruch膜增厚的关系。(+20分)
 3. ...
 
 ### 多模态题中非文本类数据格式说明
